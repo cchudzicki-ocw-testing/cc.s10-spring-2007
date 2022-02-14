@@ -15,7 +15,9 @@ image_metadata:
   credit: Image courtesy of the Library of Congress, Federal Theatre Project Collection,
     W.P.A. Transfer \[159.7\]
   image-alt: Costume is red, black, and blue and includes a cape and baton.
+learning_resource_types: []
 resourcetype: Image
 title: Costume design for Feste (thumbnail)
+type: OCWImage
 uid: d017b636-70be-c670-e296-62e2fc619612
 ---
