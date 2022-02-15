@@ -16,6 +16,7 @@ image_metadata:
     W.P.A. Transfer \[159.7\]
   image-alt: Costume is red, black, and blue and includes a cape and baton.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Costume design for Feste (thumbnail)
 uid: d017b636-70be-c670-e296-62e2fc619612
