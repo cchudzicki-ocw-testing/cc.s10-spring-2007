@@ -40,7 +40,7 @@ Writing
 
 This is a HASS-CI (Humanities, Arts, and Social Sciences Communication Intensive) course. Like other communications-intensive courses in the humanities, arts, and social sciences, it allows students to produce 20 pages of polished writing in four assignments, with one required revision. It also offers a variety of possibilities for oral expression, through presentations of written work, student-led discussion, and oral reports. The class has a low enrollment that ensures maximum attention to written and oral communication.
 
-Please see {{< resource_link 008507df-7305-f656-64ef-3b91feb631f5 "assignments" >}} for detailed instructions for the written work.
+Please see {{% resource_link 008507df-7305-f656-64ef-3b91feb631f5 "assignments" %}} for detailed instructions for the written work.
 
 Oral Presentations/Reports
 --------------------------
