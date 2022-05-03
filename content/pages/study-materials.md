@@ -74,9 +74,9 @@ When an assignment calls for close reading, it's best to start by choosing a bri
 
 Here are some useful steps.
 
-1. Choose a short passage that allows you to investigate the details closely. Here, for example, is a passage from Melville's *Typee*:   
+1. Choose a short passage that allows you to investigate the details closely. Here, for example, is a passage from Melville's *Typee*:    
       
-    "Birds-bright and beautiful birds-fly over the valley of Typee. You see them perched aloft among the immovable boughs of the majestic bread-fruit trees, or gently swaying on the elastic branches of the Omoo; skimming over the palmetto thatching of the bamboo huts; passing like spirits on the wing through the shadows of the grove, and sometimes descending into the bosom of the valley in gleaming flights from the mountains. Their plumage is purple and azure, crimson and white, black and gold; with bills of every tint;-bright bloody-red, jet black, and ivory white; and their eyes are bright and sparkling; they go sailing through the air in starry throngs; but, alas! the spell of dumbness is upon them all-there is not a single warbler in the valley!" (Melville 215).   
+    "Birds-bright and beautiful birds-fly over the valley of Typee. You see them perched aloft among the immovable boughs of the majestic bread-fruit trees, or gently swaying on the elastic branches of the Omoo; skimming over the palmetto thatching of the bamboo huts; passing like spirits on the wing through the shadows of the grove, and sometimes descending into the bosom of the valley in gleaming flights from the mountains. Their plumage is purple and azure, crimson and white, black and gold; with bills of every tint;-bright bloody-red, jet black, and ivory white; and their eyes are bright and sparkling; they go sailing through the air in starry throngs; but, alas! the spell of dumbness is upon them all-there is not a single warbler in the valley!" (Melville 215).    
       
     This single paragraph will give us plenty to work with.
 2. Look at **diction** . What kinds of words does Melville use? Does he aim for lofty diction (used for special occasions) or common diction? Are the words long or short, Latinate or Anglo-Saxon, specialized (i.e. legalistic, medical, jargon, elite) or ordinary? Remember that the rules for diction are different at different times in history; check all special definitions.
@@ -88,9 +88,9 @@ Here are some useful steps.
 8. You might now propose a **hypothesis** , perhaps something like, "In this passage, Melville complicates his description of the birds by making us aware of an ironic contrast between their freedom of movement and Tommo's captivity."
 9. You can proceed to fill in the outlines of this point by explaining what you mean, using details and quotations from the passage to support your idea.
 10. You still, however, need an argument and will need to go back to your opening to sharpen the **thesis**. The question is **Why?** Or **to what effect?** Your thesis might build on what you've already written: Melville creates this ironic contrast to intensify Tommo's sense of alienation and foreshadow his eventual escape. Or: The effect of this passage is to focus awareness on the different senses engaged in the novel and to emphasize the importance of speech (as opposed to sight). Or: Melville makes us aware that Tommo shares the "dumbness" of the birds as he struggles to articulate his experiences. Your thesis might go many directions, once you're explored the language.
-11. Even with these more developed statements, you will need to **explain and support** your point further. But you will have achieved some very important things, namely:   
-    you have chosen a specific piece of the text to work with, hence avoiding generalizations and abstractions that tend to mystify a reader
+11. Even with these more developed statements, you will need to **explain and support** your point further. But you will have achieved some very important things, namely:  
 
+- you have chosen a specific piece of the text to work with, hence avoiding generalizations and abstractions that tend to mystify a reader
 - you have moved from exposition (explaining what's there) to arguing a point, which will involve your reader in a more interactive and risky encounter with the text
 - you have carved out your **own** reading of the speech rather than taking the more well-worn path
 - you have identified something about Melville's method that may well open up other areas of the text for study and debate
