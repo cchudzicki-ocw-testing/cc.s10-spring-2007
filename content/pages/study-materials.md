@@ -74,9 +74,9 @@ When an assignment calls for close reading, it's best to start by choosing a bri
 
 Here are some useful steps.
 
-1. Choose a short passage that allows you to investigate the details closely. Here, for example, is a passage from Melville's *Typee*:      
+1. Choose a short passage that allows you to investigate the details closely. Here, for example, is a passage from Melville's *Typee*:       
       
-    "Birds-bright and beautiful birds-fly over the valley of Typee. You see them perched aloft among the immovable boughs of the majestic bread-fruit trees, or gently swaying on the elastic branches of the Omoo; skimming over the palmetto thatching of the bamboo huts; passing like spirits on the wing through the shadows of the grove, and sometimes descending into the bosom of the valley in gleaming flights from the mountains. Their plumage is purple and azure, crimson and white, black and gold; with bills of every tint;-bright bloody-red, jet black, and ivory white; and their eyes are bright and sparkling; they go sailing through the air in starry throngs; but, alas! the spell of dumbness is upon them all-there is not a single warbler in the valley!" (Melville 215).      
+    "Birds-bright and beautiful birds-fly over the valley of Typee. You see them perched aloft among the immovable boughs of the majestic bread-fruit trees, or gently swaying on the elastic branches of the Omoo; skimming over the palmetto thatching of the bamboo huts; passing like spirits on the wing through the shadows of the grove, and sometimes descending into the bosom of the valley in gleaming flights from the mountains. Their plumage is purple and azure, crimson and white, black and gold; with bills of every tint;-bright bloody-red, jet black, and ivory white; and their eyes are bright and sparkling; they go sailing through the air in starry throngs; but, alas! the spell of dumbness is upon them all-there is not a single warbler in the valley!" (Melville 215).       
       
     This single paragraph will give us plenty to work with.
 2. Look at **diction** . What kinds of words does Melville use? Does he aim for lofty diction (used for special occasions) or common diction? Are the words long or short, Latinate or Anglo-Saxon, specialized (i.e. legalistic, medical, jargon, elite) or ordinary? Remember that the rules for diction are different at different times in history; check all special definitions.
@@ -95,8 +95,6 @@ Here are some useful steps.
 - you have carved out your own reading of the speech rather than taking the more well-worn path
 - you have identified something about Melville's method that may well open up other areas of the text for study and debate 
 
-```c
-12. With your more refined thesis in place, you can go back and make sure your supporting argument explains the questions    you've raised, follows through on your argument, and comes to a provocative conclusion. By the end, you may be able to expand from your initial passage to a larger point, but use your organization to keep the reader focused all the way.
-```
+12\. With your more refined thesis in place, you can go back and make sure your supporting argument explains the questions you've raised, follows through on your argument and comes to a provocative conclusion. By the end, you may be able to expand from your initial passage to a larger point, but use your organization to keep the reader focused all the way.
 
 The most exciting thing for a reader, and the most useful for an essayist, is that close reading generally offers **surprises**. Your purpose is not so much to tell readers what they probably can see for themselves but what they might have missed that could delight them. It's helpful, then, to go into the paper with an open mind and be ready to adjust your thesis to the evidence you find in the text.
