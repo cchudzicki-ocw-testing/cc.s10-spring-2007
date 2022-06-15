@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section features instructions for essay one, the revision of essay
+  one, essay two, and essay three. It also includes a bibliographic note and guidelines
+  for the in-class report.
 draft: false
 learning_resource_types:
 - Assignments
