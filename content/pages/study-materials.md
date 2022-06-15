@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a breakdown of the pros and cons of different types
+  of persuasive writing, notes on close readings.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
